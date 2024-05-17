@@ -1,7 +1,7 @@
 {
   "name": "upp-node-lib",
   "version": "1.0.0",
-  "description": "This README would normally document whatever steps are necessary to get your application up and running.",
+  "description": "The Node Utils Library is a comprehensive collection of utility functions, common code snippets, and logging capabilities designed to streamline development processes and enhance code maintainability in Node.js applications. This library aims to reduce redundancy, enforce best practices, and provide a centralized location for reusable components and logging mechanisms.",
   "main": "index.js",
   "directories": {
     "lib": "lib"
