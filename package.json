@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://amitpadir@bitbucket.org/appveen/upp-node-lib.git"
+    "url": "https://github.com/appveen/upp-node-lib.git"
   },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://bitbucket.org/appveen/upp-node-lib/issues"
+  "author": "Amit <amit@datanimbus.com>",
+  "license": "MIT",
+   "bugs": {
+    "url": "https://github.com/appveen/upp-node-lib/issues"
   },
-  "homepage": "https://bitbucket.org/appveen/upp-node-lib#readme"
+  "homepage": "https://github.com/appveen/upp-node-lib.git#readme"
 }
